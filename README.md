@@ -44,6 +44,11 @@ Mon profil GitHub - Étudiante en Master 1 Data Manager, recherche **une alterna
 
 ---
 
+## 🚀 Projets à venir
+Des projets concrets en Data Analysis et Business Intelligence seront ajoutés ici prochainement !
+  
+---
+
 ## 📫 Me contacter
 ✉️ Email : essorekekiheou@gmail.com 
 💼 Disponible pour une **alternance (12-24 mois) en Data Analyst / BI / Data Management**  
